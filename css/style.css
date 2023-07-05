@@ -1,4 +1,13 @@
 body{
-    text-align: center;
+    color: #333;
+    font-size: 16px;
+    text-align: left;
     color: brown;
+    font-family: Arial;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #ddd;
+    margin: 0 auto;
 }
