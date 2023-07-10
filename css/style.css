@@ -6,6 +6,7 @@ body{
 }
 
 #cabezera{
+    background: url(../imagenes/img.jpg) no-repeat right;
     background-color: chocolate;
     color: white;
     padding: 5px;
