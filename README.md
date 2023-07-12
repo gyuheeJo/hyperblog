@@ -1,6 +1,6 @@
 # hyperblog
 repositorio de practica
 
-readme mejorado
+readme mejorado-am
 
 Ejemplos de git y githubgi
